@@ -1,11 +1,11 @@
 {
-  "name": "metasync-site/nova-belongs-to-many",
+  "name": "acinonux/nova-belongs-to-many",
   "description": "A Laravel Nova field for searchable belongs-to-many relationships",
   "keywords": ["laravel", "nova", "field", "belongs-to-many", "searchable"],
   "license": "MIT",
   "require": {
     "php": ">=8.2",
-    "laravel/framework": "^11.0",
+    "laravel/framework": "^11.0|^12.0",
     "laravel/nova": "^4.0|^5.0"
   },
   "require-dev": {
